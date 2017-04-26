@@ -7,3 +7,5 @@ but with the images I chose it did not seem to fit right, so I started over sear
 that would flow better with the moder style of the page.
 My Github Windows is still uploading slow to the site, Im gussing its the amount of changes and the size
 of the images.  It has been over 30min in some of the updates and still not showing on the website.
+Also I feel that my images dont have the deffinition on my page that they did when I viewed them as seprate images.
+Not sure if its in the display paramaters or just in my laptops ability.
