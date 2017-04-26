@@ -15,7 +15,7 @@ body {
 
 .bgimg-1 {
     min-height: 100vh;
-    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space4.jpg?raw=true");
+    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space5.jpg?raw=true");
 }
 
 .bgimg-2 {
@@ -27,11 +27,6 @@ body {
     background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space6.jpg?raw=true");
 }
 
-.bgimg-4 {
-  min-height: 400px;
-  background-image:
-  url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space5.jpg?raw=true");
-}
 .hero {
     padding: 50px 80px;
     color: white;
