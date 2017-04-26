@@ -15,23 +15,27 @@ body {
 
 .bgimg-1 {
     min-height: 100vh;
-    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space1.jpg?raw=true");
+    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space4.jpg?raw=true");
 }
 
 .bgimg-2 {
     min-height: 400px;
-    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space2.jpg?raw=true");
+    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space7.jpg?raw=true");
 }
-
 .bgimg-3 {
     min-height: 400px;
-    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space3..jpg?raw=true");
+    background-image: url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space6.jpg?raw=true");
 }
 
+.bgimg-4 {
+  min-height: 400px;
+  background-image:
+  url("https://github.com/DaveCowan636/Homework-Week-11/blob/master/images/Space5.jpg?raw=true");
+}
 .hero {
     padding: 50px 80px;
-    color: #777;
-    background-color: white;
+    color: white;
+    background-color: rgb(114,138,222);
     text-align: center;
     text-align: justify;
 }
